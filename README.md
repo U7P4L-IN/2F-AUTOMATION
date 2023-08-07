@@ -1,16 +1,14 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/PYTHON_ENCRYPTION.png">
+<h1 align="center" id="title">2F-AUTOMATION</h1>
 
-AUTHOR:
-<p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/PYTHON_ENCRYPTION.png">
 
 </br>
 <p align="center">
 
-### What is Python Encrypt ?
+### What is 2F AUTOMATION ?
 
-Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
-
+<p id="description">Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.</p>
 </p>
   
 #### INSTALL TOOL ON TERMUX
@@ -35,8 +33,7 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
 ```
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
 
-#### Screenshots:
-
+<h2>🚀 Demo</h2>
 ### Demo 1
 
 <p align="center"><img src="https://github.com/U7P4L-IN/2F-AUTOMATION/blob/main/Image/XRecorder_07082023_182356-01.jpeg">
